@@ -1,7 +1,7 @@
 # 👟 Shoe Sales Analysis: Advanced Metrics with Python
 
 ## 📋 Overview  
-This project focuses on analyzing shoe sales data to uncover key metrics like the **mean**, **median**, and **percentiles** of sales quantities for different brands e.g. Nike & Adidas. The project also includes 📊 visualization of sales trends over time using Python.
+This project focuses on analyzing shoe sales data to uncover key metrics like the **mean**, **median**, and **percentiles** of sales quantities for different brands e.g. Nike & Adidas. The project also includes 📊 visualization of sales trends over time using Python matplotlib.
 
 ## ✨ Features  
 - 📈 Calculate **mean**, **median**, and **percentiles** for sales quantities.  
