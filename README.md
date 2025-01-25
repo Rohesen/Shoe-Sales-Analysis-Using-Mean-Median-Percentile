@@ -56,6 +56,8 @@ def plot_sales_trend(dataframe):
 plot_sales_trend(dataframe)
 ```
 
+![Line Chart](https://github.com/Rohesen/Shoe-Sales-Analysis-Using-Mean-Median-Percentile/blob/main/Screenshot%202025-01-25%20171304.png)
+
 ### 3️⃣ Percentile Calculation  
 Calculate the 90th percentile for sales quantities:  
 ```python
@@ -68,6 +70,8 @@ nike_90th_percentile
 - 📊 Median sales for Nike provide a central value to benchmark performance.  
 - 📅 Sales trends help identify peak sales periods for better inventory management.  
 - 🏆 Percentile analysis highlights the top-performing days for each brand.
+
+
 
 ## ⚙️ Prerequisites  
 - 🐍 Python 
@@ -90,6 +94,8 @@ nike_90th_percentile
 
 ## 🏁 Conclusion  
 This project demonstrates how to use Python for data analysis and visualization to extract meaningful insights from sales data. The combination of statistical metrics and visualizations provides a comprehensive view of brand performance over time.  
+
+![Conclusion](https://github.com/Rohesen/Shoe-Sales-Analysis-Using-Mean-Median-Percentile/blob/main/Screenshot%202025-01-25%20171630.png)
 
 ---  
 Feel free to explore the code and contribute! 🚀✨  
